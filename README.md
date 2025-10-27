@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wyatt</h1>
 <h3 align="center">A Software Engineer from Missouri, USA</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yournd" alt="yournd" /></a> </p>
 
 - 🔭 I’m currently working on [Spots](https://github.com/Yournd/se_project_spots), a social media app, where you can upload your favorite hangout spots!
 
