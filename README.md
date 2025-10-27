@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wyatt</h1>
-<h3 align="center">A passionate frontend developer from Missouri, US</h3>
+<h3 align="center">A skilled frontend developer from Missouri, US</h3>
 
 - 🌱 I’m currently learning **Software Engineering with TripleTen**
 
