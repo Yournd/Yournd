@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer from Missouri, USA</h3>
 
 
-- 🔭 I’m currently working on [Spots](https://github.com/Yournd/se_project_spots), a social media app, where you can upload your favorite hangout spots!
+- 🔭 I’m currently working on a [Simple Tetris Game](https://yournd.github.io/se_project_tetris_game/), a social media app, where you can upload your favorite hangout spots!
 
 - 🌱 I’m currently learning **Software Engineering with TripleTen**
 
